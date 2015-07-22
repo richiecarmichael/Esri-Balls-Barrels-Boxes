@@ -1,10 +1,10 @@
-# Esri-Balls-Barrels-Boxes
+# Balls, Barrels & Boxes
 
 A prototype of integrating Esri JS 4.0 and the Cannon.js physics engine.
 
 Click [here](http://richiecarmichael.github.io/balls/index.html) or [here](http://maps.esri.com/rc/physics/index.html) to view the live application.
 
-#### This application makes use of the following libraries
+#### This application makes use of the following libraries:
 
 * [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) by [Esri](http://www.esri.com/)
   - Esri’s JavaScript library for mapping and analysis.
@@ -19,6 +19,6 @@ Click [here](http://richiecarmichael.github.io/balls/index.html) or [here](http:
 * [TWGL.js](https://github.com/greggman/twgl.js) by [Greggman](https://github.com/greggman)
   - A Tiny WebGL helper Library
 
-#### The puzzle scrambled
+#### The App in Action:
 ![](./balls.gif)
 
